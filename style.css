@@ -1,0 +1,185 @@
+
+body{
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1008%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='%230e2a47'%3e%3c/rect%3e%3cpath d='M399.28034572143474 259.75158111349333L340.6110764745922 149.15659319268923 281.0065773663166 240.93947305524043z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M395.185%2c464.667C420.436%2c465.05%2c441.906%2c447.949%2c454.337%2c425.966C466.559%2c404.353%2c469.982%2c377.254%2c456.354%2c356.499C443.696%2c337.221%2c418.243%2c336.319%2c395.185%2c335.877C370.947%2c335.413%2c342.818%2c333.613%2c329.818%2c354.075C316.264%2c375.41%2c326.201%2c402.459%2c339.062%2c424.218C351.638%2c445.495%2c370.472%2c464.292%2c395.185%2c464.667' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M518.612%2c359.429C550.612%2c360.812%2c583.583%2c348.967%2c599.763%2c321.324C616.082%2c293.444%2c610.216%2c258.884%2c593.726%2c231.104C577.616%2c203.964%2c550.148%2c183.362%2c518.612%2c184.61C488.749%2c185.791%2c467.26%2c210.331%2c453.131%2c236.666C439.913%2c261.302%2c435.605%2c290.13%2c448.763%2c314.798C462.7%2c340.927%2c489.026%2c358.15%2c518.612%2c359.429' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M105.29%2c118.048C123.292%2c118.094%2c143.339%2c117.193%2c153.07%2c102.048C163.381%2c86.001%2c159.893%2c64.95%2c149.811%2c48.758C140.309%2c33.498%2c123.263%2c25.622%2c105.29%2c25.313C86.691%2c24.993%2c67.828%2c31.364%2c58.036%2c47.18C47.763%2c63.772%2c47.108%2c85.568%2c57.934%2c101.804C67.857%2c116.685%2c87.404%2c118.002%2c105.29%2c118.048' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M892.9029539911221 381.6430504414856L994.113933183148 472.9486314132932 1020.918253891405 356.8463629389023z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1103.79 179.73 a136.38 136.38 0 1 0 272.76 0 a136.38 136.38 0 1 0 -272.76 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M438.915%2c244.117C482.876%2c244.922%2c531.245%2c237.009%2c553.436%2c199.052C575.77%2c160.851%2c558.583%2c114.934%2c537.039%2c76.281C514.719%2c36.235%2c484.761%2c-6.582%2c438.915%2c-6.416C393.238%2c-6.25%2c363.519%2c36.69%2c342.014%2c76.988C322.087%2c114.33%2c310.207%2c158.369%2c331.437%2c194.986C352.614%2c231.511%2c396.702%2c243.344%2c438.915%2c244.117' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M618.023%2c772.951C667.452%2c769.891%2c714.961%2c752.032%2c741.7%2c710.347C770.784%2c665.006%2c778.982%2c608.126%2c754.544%2c560.121C727.795%2c507.578%2c676.953%2c469.294%2c618.023%2c467.403C555.921%2c465.41%2c496.994%2c497.323%2c465.431%2c550.843C433.37%2c605.208%2c428.894%2c675.48%2c464.633%2c727.501C496.998%2c774.611%2c560.976%2c776.483%2c618.023%2c772.951' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M-26.809106732667367 409.20818914658173L138.53612380196006 412.0943008811347 141.42223553651303 246.74907034650727-23.922994998114405 243.8629586119543z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M150.46 260.35 a181.8 181.8 0 1 0 363.6 0 a181.8 181.8 0 1 0 -363.6 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M485.549%2c674.779C533.67%2c676.257%2c578.964%2c649.775%2c602.452%2c607.749C625.409%2c566.672%2c621.614%2c515.996%2c596.55%2c476.169C573.046%2c438.821%2c529.675%2c421.594%2c485.549%2c421.991C442.192%2c422.381%2c399.909%2c440.746%2c377.951%2c478.134C355.728%2c515.972%2c359.39%2c562.437%2c380.453%2c600.932C402.48%2c641.189%2c439.682%2c673.37%2c485.549%2c674.779' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M559.34 73.88 a170.46 170.46 0 1 0 340.92 0 a170.46 170.46 0 1 0 -340.92 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M908.8722351755384 158.45216986253791L827.4916521764479 191.3320596679252 917.5017783840741 296.96298926386737z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M528.528%2c185.767C557.162%2c185.875%2c583.618%2c170.504%2c597.953%2c145.717C612.307%2c120.898%2c612.847%2c90.055%2c598.101%2c65.467C583.748%2c41.535%2c556.42%2c30.847%2c528.528%2c29.956C498.673%2c29.002%2c466.069%2c35.086%2c450.803%2c60.76C435.294%2c86.843%2c443.983%2c119.426%2c460.006%2c145.196C475.028%2c169.357%2c500.078%2c185.66%2c528.528%2c185.767' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M710.008%2c575.629C741.815%2c573.776%2c764.723%2c549.112%2c781.092%2c521.778C798.078%2c493.413%2c813.906%2c458.922%2c796.864%2c430.591C780.115%2c402.746%2c742.499%2c403.133%2c710.008%2c403.605C678.685%2c404.06%2c645.091%2c407.189%2c627.418%2c433.054C607.658%2c461.973%2c605.413%2c500.683%2c622.969%2c530.99C640.486%2c561.23%2c675.12%2c577.661%2c710.008%2c575.629' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1109.4168561090141 176.94392921023265L1036.0121423804767 110.72324755535757 1016.5719244912248 194.92808233347935z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M1187.2247900927323 122.00771218449745L1273.9890629289494 180.53095317016576 1332.5123039146176 93.76668033394873 1245.7480310784006 35.24343934828042z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M448.55 42.79 a129.29 129.29 0 1 0 258.58 0 a129.29 129.29 0 1 0 -258.58 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1008'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+    font-family: 'Fira Sans', sans-serif;
+}
+.nav {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    background: rgba(255, 255, 255, 0.22);
+    border-radius: 5px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(2.9px);
+    -webkit-backdrop-filter: blur(2.9px);
+    color: white;
+    height: 50px;
+}
+
+.nav-cont{
+  margin-left: 300px;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+/*carta de imagen*/
+.flip-card {
+    background-color: transparent;
+    width: 190px;
+    height: 254px;
+    perspective: 1000px;
+    font-family: sans-serif;
+    margin-left: 570px;
+
+  }
+  
+  .title {
+    font-size: 1.5em;
+    font-weight: 900;
+    text-align: center;
+    margin: 0;
+  }
+
+.img-title{
+    border-radius: 15px;
+    height: 160px;
+}
+  
+  .flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+  }
+  
+  .flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+  }
+  
+  .flip-card-front, .flip-card-back {
+    box-shadow: 0 8px 14px 0 rgba(0,0,0,0.2);
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    border: 1px solid coral;
+    border-radius: 1rem;
+    
+  }
+  
+  .flip-card-front {
+    background: linear-gradient(120deg, bisque 60%, rgb(255, 231, 222) 88%,
+       rgb(255, 211, 195) 40%, rgba(255, 127, 80, 0.603) 48%);
+    color: coral;
+  }
+  
+  .flip-card-back {
+    background: linear-gradient(120deg, rgb(255, 174, 145) 30%, coral 88%,
+       bisque 40%, rgb(255, 185, 160) 78%);
+    color: white;
+    transform: rotateY(180deg);
+  }
+
+
+ 
+/*email*/
+.scene {
+    width: 10em;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: -40px;
+    margin-top: 50px;
+}
+   
+.cube {
+    color: #ccc;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    transition: all 0.85s cubic-bezier(.17,.67,.14,.93);
+    transform-style: preserve-3d;
+    transform-origin: 100% 50%;
+    width: 13em;
+    height: 7em; 
+}
+   
+.cube:hover {
+    transform: rotateX(-90deg);
+}
+   
+.side {
+    box-sizing: border-box;
+    position: absolute;
+    display: inline-block;
+    height: 4em;
+    width: 10em;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 1em;
+    font-weight: bold;
+}
+ 
+.top {
+    background: wheat;
+    color: #222229;
+    transform: rotateX(90deg) translate3d(0, 0, 2em);
+    box-shadow: inset 0 0 0 5px #fff;
+}
+   
+.front {
+    background: #222229;
+    color: #fff;
+    box-shadow: inset 0 0 0 5px #fff;
+    transform: translate3d(0, 0, 2em);
+}
+
+
+/*password*/
+
+.scenes{
+  width: 10em;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: -30px;
+  margin-top: 50px;
+}
+
+.cubes{
+  color: #ccc;
+  font-family: 'Roboto', sans-serif;
+  width: 13em;
+  height: 17em;
+}
+
+.sides{
+  box-sizing: border-box;
+    position: absolute;
+    display: inline-block;
+    height: 4em;
+    width: 10em;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 1em;
+    font-weight: bold;
+}
+
+.fronts{
+  background: #222229;
+    color: #fff;
+    box-shadow: inset 0 0 0 5px #fff;
+}
+
+
+/*page password*/
+
+.password{
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 90px;
+  margin-left: 500px;
+  color:#fff
+}
